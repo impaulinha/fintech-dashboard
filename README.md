@@ -95,7 +95,7 @@ Você poderá acessar a aplicação clicando no link disponível em "Local".
 
 ## 📝 Licença
 
-Este projeto esta sobe a licença [MIT](./LICENSE).
+Este projeto esta sob a licença [MIT](./LICENSE).
 
 ---
 
